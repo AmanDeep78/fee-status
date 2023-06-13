@@ -1,0 +1,19 @@
+
+.form-container {
+  width: 300px;
+  background: linear-gradient(45deg, #ffffff 0, #ffffff 100%);
+  padding: 50px; margin: 50px;
+  color: #000000;
+  transition: border-color 0.3s ease;
+  display: inline-grid;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.form-container:hover {
+  border: 2px solid #93b4db; /* Example border color, you can adjust as needed */
+}
+
+
+

@@ -1,0 +1,26 @@
+.services-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .services-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .services-page p {
+    margin-bottom: 10px;
+  }
+  
+  .services-page ul {
+    margin-top: 20px;
+  }
+  
+  .services-page ul li {
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,26 @@
+.about-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .about-page p {
+    margin-bottom: 10px;
+  }
+  
+  .about-page ul {
+    margin-top: 20px;
+  }
+  
+  .about-page ul li {
+    margin-bottom: 5px;
+  }
+  
